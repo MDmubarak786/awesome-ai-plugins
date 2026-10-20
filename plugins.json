@@ -3,7 +3,7 @@
   "name": "awesome-ai-plugins",
   "version": "1.0.0",
   "last_updated": "2026-10-20",
-  "total": 930,
+  "total": 931,
   "platforms": [
     "codex",
     "grok",
@@ -7536,6 +7536,20 @@
       "source": "awesome-ai-plugins",
       "install_url": "https://raw.githubusercontent.com/divyamrastogi/model-orchestration/HEAD/.claude-plugin/plugin.json",
       "platform": "claude-code",
+      "ecosystems": [
+        "claude-code"
+      ]
+    },
+    {
+      "name": "modhub",
+      "url": "https://github.com/MDmubarak786/claude-mods",
+      "owner": "MDmubarak786",
+      "repo": "claude-mods",
+      "description": "26 small mods for Claude Code: guards like fence, tripwire and pkg-guard, tool-row helpers, and eight zero-token games that play in a pane beside the conversation",
+      "category": "Development & Workflow",
+      "source": "awesome-ai-plugins",
+      "platform": "claude-code",
+      "installation_url": "https://github.com/MDmubarak786/claude-mods#readme",
       "ecosystems": [
         "claude-code"
       ]
